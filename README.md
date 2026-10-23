@@ -96,7 +96,7 @@ python plots.py
 
 Изпълнение на тестовете:
 ```bash
-pytest
+python -m pytest -v
 ```
 
 ## 5. Ограничения и възможно развитие
